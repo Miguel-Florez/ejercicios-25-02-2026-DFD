@@ -3,7 +3,7 @@
 2 Integrantes
 
 - Miguel Angel Florez Hernandez – ID:001107547
-- Nombre completo estudiante 2 – ID
+- Diego Andres Roman Peroxozo – ID:1119685
 
 -Tema
 Estructuras condicionales en Diagramas de Flujo y condiciones anidadas.
